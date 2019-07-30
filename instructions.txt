@@ -9,4 +9,8 @@ Please refer to four more instructions..
 Well I have more changes
 =======
 ## Next I will add instructions from local
+<<<<<<< HEAD
 
+=======
+Got a few more of those
+>>>>>>> 917d853abf02ac7c04c71948974df8ed21f6b3cf
