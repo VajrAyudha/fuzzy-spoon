@@ -5,4 +5,8 @@ Here are some basic instructions:
 
 Please refer to four more instructions..
 
+<<<<<<< HEAD
 Well I have more changes
+=======
+## Next I will add instructions from local
+
