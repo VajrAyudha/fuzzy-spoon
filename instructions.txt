@@ -3,4 +3,4 @@ Here are some basic instructions:
 # First Line of instruction..
 ## Second line of Instruction..
 
-Pleaes refer to four more instructions..
+Please refer to four more instructions..
